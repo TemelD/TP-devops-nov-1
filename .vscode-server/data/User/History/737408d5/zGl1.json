@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "dart.flutterSdkPath": "C:\\Users\\admin\\Documents\\flutter\\flutter",
+    "editor.minimap.enabled": false,
+    "remote.SSH.remotePlatform": {
+        "isitech.tancou.fr": "linux",
+        "10.251.119.31": "linux"
+    }
+}

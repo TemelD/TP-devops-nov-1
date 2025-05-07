@@ -1,0 +1,7 @@
+Listening on 127.0.0.1:37053
+[2025-05-06 12:43:02] info Disposed of connection to running server.
+[2025-05-06 12:43:02] info Checking /home/temtem/.vscode-server/cli/servers/Stable-17baf841131aa23349f217ca7c570c76ee87b957/log.txt and /home/temtem/.vscode-server/cli/servers/Stable-17baf841131aa23349f217ca7c570c76ee87b957/pid.txt for a running server...
+[2025-05-06 12:43:03] info Downloading Visual Studio Code server -> /tmp/.tmp9VjNFn/vscode-server-linux-x64.tar.gz
+[2025-05-06 12:43:17] info Starting server...
+[2025-05-06 12:43:17] info Server started
+[2025-05-06 12:43:26] info Disposed of connection to running server.
